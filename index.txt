@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 helllo
 
 hii everyone
+=======
+hell
+>>>>>>> login
