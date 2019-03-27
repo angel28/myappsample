@@ -2,4 +2,8 @@ OB
 hello world 
 hi
 how u doing!
+<<<<<<< HEAD
 hello Angel!How r u?
+=======
+hello Salma!! How r u??
+>>>>>>> 86d4a44896f9117c0da7c9a595f90026621d63d2
